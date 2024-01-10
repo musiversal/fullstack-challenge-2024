@@ -6,7 +6,10 @@ We want to build an small application to reserve musicians on a daily basis, so 
 
 The designs and a bit of the interaction of what this DAW will include is in the following figma:
 
-https://www.figma.com/file/EVSy3tsUIL4gNucNRAuoOk/Fullstack-Challenge-2024?type=design&node-id=0%3A1&mode=design&t=AS6436b73nxq4j5C-1
+Wireframes: https://www.figma.com/file/EVSy3tsUIL4gNucNRAuoOk/Fullstack-Challenge-2024?type=design&node-id=0%3A1&mode=design&t=AS6436b73nxq4j5C-1
+Designs: https://www.figma.com/file/pmR0LcrL6gN71pTaJxiYzg/ForJavi?type=design&node-id=0-1&mode=design
+
+You can use figma to pull assets if you like, changing how the endpoint will return the data, for example.
 
 == Requirements and documentation:
 
